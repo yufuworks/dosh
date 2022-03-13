@@ -1,4 +1,4 @@
-package util;
+package com.yufuworks.util;
 
 public class PropertiesUtil {
   

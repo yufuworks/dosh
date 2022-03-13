@@ -1,4 +1,4 @@
-package player;
+package com.yufuworks.player;
 
 import java.util.Random;
 

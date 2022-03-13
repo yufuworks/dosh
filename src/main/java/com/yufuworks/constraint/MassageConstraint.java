@@ -1,4 +1,4 @@
-package constraint;
+package com.yufuworks.constraint;
 
 import java.io.FileInputStream;
 import java.io.InputStream;
